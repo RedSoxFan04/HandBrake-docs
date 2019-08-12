@@ -25,6 +25,9 @@ HandBrake contains the following filters:
 - Deinterlace 
   - Decomb
 - Denoise
+    -NLMeans
+    -HQDN3D
 - Deblock
 - Grayscale
 - Rotation
+
